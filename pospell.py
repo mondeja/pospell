@@ -129,6 +129,7 @@ def strip_rst(line):
             "rfc_base_url": "http://tools.ietf.org/html/",
             "tab_width": 8,
             "trim_footnote_reference_space": None,
+            "syntax_highlight": "none"
         }
     )
     stderr_stringio = io.StringIO()
